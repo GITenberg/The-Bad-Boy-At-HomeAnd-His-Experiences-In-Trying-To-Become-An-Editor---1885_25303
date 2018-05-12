@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9505
     wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25303#The-Bad-Boy-At-HomeAnd-His-Experiences-In-Trying-To-Become-An-Editor---1885
 gutenberg_issued: '2008-05-02'
 gutenberg_type: Text
 identifiers:
